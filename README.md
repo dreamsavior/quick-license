@@ -24,7 +24,7 @@ You can use `quick-license` through the command line with the following commands
 
 - `quick-license test`: Lists the files that will be affected based on your configuration.
 - `quick-license license`: Applies the license header to the specified files.
-- `quick-license unLicense`: Removes the license header from the specified files.
+- `quick-license unlicense`: Removes the license header from the specified files.
 - `quick-license check: Checks` the license status of the specified files.
 - `quick-license check -f <file>`: Checks the license status of a specific file or files (comma-separated).
 

@@ -22,7 +22,7 @@ program
         case 'license':
           await quickLicense.license();
           break;
-        case 'unLicense':
+        case 'unlicense':
           await quickLicense.unLicense();
           break;
         case 'check':
