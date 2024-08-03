@@ -1,0 +1,15 @@
+{
+  "name": "quick-license",
+  "version": "1.0.0",
+  "description": "A tool to apply, remove, and check licenses in .js and .css files.",
+  "main": "lib/quickLicense.js",
+  "bin": {
+    "quick-license": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node lib/quickLicense.js"
+  },
+  "dependencies": {
+    "glob": "^7.2.3"
+  }
+}
